@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Git creates a reference to the directory where the repository will be located. It's necessary for Git could know about the existence of a repository.
+	
